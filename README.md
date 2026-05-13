@@ -1,14 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ashna 👋
 
-<!--
-**ashhnaa/ashhnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate passionate about software development, problem solving, and AI-assisted applications.
 
-Here are some ideas to get you started:
+## 🚀 Interests
+- Software Development
+- AI & Machine Learning
+- Networking Concepts
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning something new.
-- 🤔 I’m looking for help with finding some cool camps.
-- 💬 Ask me about somethinf fun.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Everyday life gives you new lessons.
--->
+## 🛠 Tech Stack
+- Languages: C, Python, Java
+- Web: HTML, CSS, JavaScript (Learning React)
+- Core CS: Data Structures, Operating Systems, Computer Networks
+- Tools: Git, GitHub
+
+## 📌 Projects
+### 🔹 Detectra
+ML-based drug detection system capable of differentiating drugs and non-drugs using graph-based datasets.
+
+### 🔹 Spear Framework
+A proactive routing framework focused on predicting congestion and rerouting network traffic efficiently.
+
+## 🌱 Currently Learning
+- React
+- REST APIs
+- AI API Integration
+- PostgreSQL
+
+## 📫 Connect With Me
+- Email: ashnavijayan2005@gmail.com
